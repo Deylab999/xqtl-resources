@@ -30,9 +30,8 @@
 - Anjing Liu - R01AG076901
 - Yiyi Ma () - 
 - Alexander McCreight () - R01AG076901
-- Min Qiao () - RF1AG066107, R01AG067501
 - Sheema Sameen () - 
-- Badri Vardarajan - RF1AG066107, R01AG067501
+- Badri Vardarajan
 - Anqi Wang () - R01AG076901, U01AG072572
 - Lu Zeng ()
 - Gao Wang (wang.gao@columbia.edu) - R01AG086467, R01AG076901, U01AG072572
@@ -72,10 +71,9 @@
 
 ### Memorial Sloan Kettering Cancer Center
 
-- Kushal K. Dey
-- Tabassum Fabiha 
-- Harry Wang
-- Louis Liu
+- Kushal K. Key, R00HG012203, R01HG014008, P30CA008748
+- Tabassum Fabiha, R00HG012203
+
 
 ### National University of Singapore
 
